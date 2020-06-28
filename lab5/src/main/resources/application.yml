@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    contextPath: /spring-app
+
+spring:
+  datasource:
+    url: ${database.url}
+    username: ${database.username}
+    password: ${database.password}
+    driver-class-name: ${database.driverClassName}
+    platform: ${hibernate.dialect}
+    initialization-mode: always
