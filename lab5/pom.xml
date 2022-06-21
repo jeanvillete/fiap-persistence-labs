@@ -20,7 +20,7 @@
         <context.path>spring-app</context.path>
         <java.version>8</java.version>
         <springboot.version>2.0.4.RELEASE</springboot.version>
-        <mysql.version>8.0.13</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <apache.commons.version>2.1.1</apache.commons.version>
         <jaxb.version>2.3.0</jaxb.version>
     </properties>
